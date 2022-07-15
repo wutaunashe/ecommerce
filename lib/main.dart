@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ecommerce/home.dart';
+import 'package:ecommerce/home/home.dart';
 
 void main() {
   runApp(const MyApp());
